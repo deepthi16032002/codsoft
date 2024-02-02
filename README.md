@@ -3,7 +3,8 @@
 Organization: CodSoft<br>
 Role: Web Development Intern<br>
 Tasks: Personal Portfolio, Landing Page, Basic Calculator<br><br>
-![image](https://github.com/deepthi16032002/codsoft/assets/134869226/6c5e5b08-ed19-412d-b7de-90a5632032d0)
+![image](https://github.com/deepthi16032002/codsoft/assets/134869226/1567a7f7-5f7b-4f40-bec2-9ccbb741ddbc)
+
 
 📖𝐓𝐚𝐬𝐤 𝟏: 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨
 Create a personal portfolio using HTML and CSS to showcase skills and projects.
