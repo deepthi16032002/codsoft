@@ -1,5 +1,5 @@
 <h1>𝐂𝐨𝐝𝐒𝐨𝐟𝐭 𝐕𝐢𝐫𝐭𝐮𝐚𝐥 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲</h1><br>
-<h3>𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐃𝐞𝐭𝐚𝐢𝐥𝐬</h3><br>
+𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐃𝐞𝐭𝐚𝐢𝐥𝐬<br>
 Organization: CodSoft<br>
 Role: Web Development Intern<br>
 Tasks: Personal Portfolio, Landing Page, Basic Calculator<br><br>
